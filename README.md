@@ -23,7 +23,10 @@ Bixby 2.0 유지 보수 및 테스트
 
 <br/>
 
-### Study
+<details markdown="1">
+<summary>👩‍💻 Study</summary>
+<br />
+
 Algorithm `Python` \
 https://github.com/kyungeun-j/algorithm 
 <br>
@@ -38,3 +41,5 @@ https://github.com/kyungeun-j/todo_list
 
 Pika  `Python` `Flask` `JavaScript`\
 https://github.com/kyungeun-j/zzang_pika
+
+</details>
