@@ -24,7 +24,7 @@ Bixby 2.0 유지 보수 및 테스트
 <br/>
 
 <details markdown="1">
-<summary>👩‍💻 Study</summary>
+<summary>Study Project</summary>
 <br />
 
 Algorithm `Python` \
