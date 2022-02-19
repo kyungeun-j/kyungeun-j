@@ -10,7 +10,7 @@
 
 ### 🖥 Career
 
-2019.02 - 2020.12 라이온브리지테크놀로지스코리아
+2019.02 - 2020.12 라이온브리지테크놀로지스코리아 \
 Bixby 2.0 유지 보수 및 테스트 
 - Contact App(Native capsule)
 - Bixby Tech Support
